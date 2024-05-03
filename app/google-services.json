@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "374414297444",
+    "project_id": "project-wayfinder-b958e",
+    "storage_bucket": "project-wayfinder-b958e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:374414297444:android:0ac591914b8398bfe4d271",
+        "android_client_info": {
+          "package_name": "com.example.projectwayfinder"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLUwUNc0Iz74HgsnlPAzT-VtecvKxQlmw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
